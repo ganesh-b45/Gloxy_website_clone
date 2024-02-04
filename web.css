@@ -115,3 +115,16 @@ background-color: #e74c14;
      transform: scale(1.05);
   box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
 }
+.offer
+{
+	background-image: url(https://gloxy-react.envytheme.com/static/cta-bg-img-29454ae41b8cfd8c32d30d912b2e4f07.jpg);
+	/*height: 600px;*/
+	background-size: 100% 100%;
+	margin-top: 80px;
+
+}
+.offerone
+{
+     padding-top: 150px;
+     padding-bottom: 60px;
+}
